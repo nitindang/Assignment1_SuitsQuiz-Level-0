@@ -3,3 +3,5 @@
 <p> This is a quiz for testing the user on his knowledge on Netflix season SUITS.</p>
 
 </p> Suits is an American legal drama television series created and written by Aaron Korsh. Suits is set at a fictional New York City law firm and follows talented college dropout Mike Ross (Patrick J. Adams), who starts working as a law associate for Harvey Specter (Gabriel Macht) despite never having attended law school.</p>
+
+<p> This javascript code also contains the implementation of the styling library CHALK </p>
